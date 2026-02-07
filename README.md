@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full-Stack Developer focused on front-end development and building scalable web solutions.</p>
+<p align="left">Full-Stack Developer focused on building scalable web solutions.</p>
 
 ###
 
